@@ -1,0 +1,1 @@
+curl -u claasbabendererde@gmail.com:werner123 https://api.staffomaticapp.com/v3/<your-account-subdomain>/locations.json
